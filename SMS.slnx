@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SMS.Api/SMS.Api.csproj" />
+  </Folder>
+</Solution>
